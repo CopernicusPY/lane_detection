@@ -1,5 +1,14 @@
 {
-    "source":"tst.mp4",
-    "customization.line.color":"green",
-    "customization.line.thickness":3,     
+    "source": "line.png",
+    "line.color": [255, 0, 0],
+    "line.thickness": 2,
+    "bin.low_threshold": 100,
+    "bin.high_threshold": 200,
+    "canny.low_threshold": 100,
+    "canny.high_threshold": 200,
+    "canny.ratio": 0,
+    "hough.rho": 6,
+    "hough.threshold": 255,
+    "hough.min_line_length": 40,
+    "hough.max_line_gap": 256
 }
