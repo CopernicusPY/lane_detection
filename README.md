@@ -8,5 +8,5 @@
 To install line_detector git-clone the project.
 > git clone https://github.com/CapernicusPY/line_detector
 # Configuration
-lane_detector is 100% customizable. To configure lane_detection to your needs head over to [config.json](./config.json). Just tweak the values to your needs. (The key names are pretty self explanatory
+lane_detector is 100% customizable. To configure lane_detection to your needs head over to [conf.json](./conf.json). Just tweak the values to your needs. (The key names are pretty self explanatory
 (I think its not necessary to mention that this project doesn't reach in any level the car's software, its just for a school project)
